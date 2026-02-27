@@ -1,0 +1,6 @@
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: First Workshop on Systems for Health
+description: First Workshop on Systems for Health
