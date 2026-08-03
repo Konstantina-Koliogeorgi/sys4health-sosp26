@@ -61,7 +61,7 @@
 
 ## Call for Presentations {#call-for-presentations}
 
-This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://forms.gle/8ZmbDWH6szNQBchE8">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
+This workshop consists of talks on the general topic of computing system designs for healthcare applications and new trends and bottlenecks in data-intensive healthcare applications. There are a limited number of slots for talks. If you are interested in delivering a talk on related topics, **please submit your talk's title and extended abstract via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfT_dwEc8B5UCwds8kVWuqjAB86plANAcZoCD1YPvb9tpKMwQ/viewform">this Google Form</a>**. You may either paste the abstract directly into the form or upload a two-page PDF prepared in any standard conference template. Each submission must include the talk title, all authors' names, and their affiliations.
 
 We invite abstract submissions related to (but not limited to) the following topics:
 
@@ -90,9 +90,9 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Key Dates {#key-dates}
 
-- **Extended Abstract Submission Deadline:** 20 April 2026
-- **Notification:** 27 April 2026
-- **Workshop Date:** 6th July 2026
+- **Extended Abstract Submission Deadline:** 28 August 2026
+- **Notification:** 4 September 2026
+- **Workshop Date:** 29 September 2026
 
 ## Organizers {#organizers}
 
