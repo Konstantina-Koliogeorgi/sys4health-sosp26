@@ -46,7 +46,7 @@
 </h3>
 
 **29th Septmeber 2026, Prague, Czechia**  
-**In conjunction with [the 32nd Symposium on Operating Systems Principles 2026 (SOSP 2026)](https://sigops.org/s/conferences/sosp/2026/index.html/)**
+**In conjunction with [the 32nd Symposium on Operating Systems Principles 2026 (SOSP 2026)](https://sigops.org/s/conferences/sosp/2026/)**
 
 ## Workshop Description {#description}
 
