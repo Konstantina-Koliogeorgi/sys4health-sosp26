@@ -159,7 +159,7 @@ We invite abstract submissions related to (but not limited to) the following top
   
   <div class="organizer">
     <div class="photo-name">
-      <img src="{{ 'eirini_pic.jpg' | relative_url }}" alt="Eirini Tzermpou">
+      <img src="{{ 'eirini_pic.jpeg' | relative_url }}" alt="Eirini Tzermpou">
       <p><a href="https://ihpcs.ethz.ch/people/person-detail.Mzc3MTQ0.TGlzdC8zOTQxLDc2NTU1MzE0Mg==.html" style="color: inherit; text-decoration: none;">Eirini Tzermpou</a></p>
     </div>
     <div class="bio">
