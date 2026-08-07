@@ -42,7 +42,7 @@
 
 <h3 style="color: #7F7FFF;font-style: italic;">
   A half-day workshop exploring the key computational challenges in health-related applications <br> 
-  and the vital role of operating systems in overcoming them to advance healthcare
+  and the vital role of computing system design in overcoming them to advance healthcare
 </h3>
 
 **29th September 2026, Prague, Czechia**  
