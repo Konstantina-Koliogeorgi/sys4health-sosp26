@@ -182,7 +182,6 @@ We invite abstract submissions related to (but not limited to) the following top
 </div>
 
 
-## Agenda & Workshop Materials {#agenda-materials}
 
 ## Agenda & Workshop Materials {#agenda-materials}
 
@@ -270,7 +269,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">8:35 - 9:15</td>
       <td>
         Onur Mutlu / Nika Mansouri Ghiasi
-        <span class="affiliation">ETH Zurich</span>
+        <span class="affiliation">(ETH Zurich)</span>
       </td>
       <td>Accelerating Genome Analysis</td>
     </tr>
@@ -278,7 +277,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">9:15 - 10:00</td>
       <td>
         Mingkai Dong
-        <span class="affiliation">SJTU</span>
+        <span class="affiliation">(SJTU)</span>
       </td>
       <td>DNA Storage as a Systems Problem: From Molecular Media to Storage Abstractions</td>
     </tr>
@@ -290,7 +289,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">10:30 - 10:50</td>
       <td>
         Ziqiang &ldquo;Joe&rdquo; Zhu
-        <span class="affiliation">University of California, Davis</span>
+        <span class="affiliation">(University of California, Davis)</span>
       </td>
       <td>TypeZero: Building Trustworthy Computer Systems for Human Augmentation</td>
     </tr>
@@ -298,7 +297,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">10:50 - 11:10</td>
       <td>
         Timur Eke
-        <span class="affiliation">ETH Zurich</span>
+        <span class="affiliation">(ETH Zurich)</span>
       </td>
       <td>Benchmarking and Accelerating Single-Cell Analysis</td>
     </tr>
@@ -306,7 +305,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">11:10 - 11:30</td>
       <td>
         Nika Mansouri Ghiasi
-        <span class="affiliation">ETH Zurich</span>
+        <span class="affiliation">(ETH Zurich)</span>
       </td>
       <td>Storage-Centric Genomic and Metagenomic Analyses</td>
     </tr>
@@ -314,7 +313,7 @@ We invite abstract submissions related to (but not limited to) the following top
       <td class="time">11:30 - 11:50</td>
       <td>
         Yifan Li
-        <span class="affiliation">Cornell</span>
+        <span class="affiliation">(Cornell)</span>
       </td>
       <td>Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale</td>
     </tr>
