@@ -184,6 +184,8 @@ We invite abstract submissions related to (but not limited to) the following top
 
 ## Agenda & Workshop Materials {#agenda-materials}
 
+## Agenda & Workshop Materials {#agenda-materials}
+
 <style>
   /* Specific styling for the Agenda Table */
   table.agenda-table {
@@ -209,16 +211,35 @@ We invite abstract submissions related to (but not limited to) the following top
     color: #333;
   }
 
-  /* Column widths */
+  /* Column widths — only take effect because of the <colgroup> in the table */
   table.agenda-table col:nth-child(1) { width: 15%; } /* Time */
-  table.agenda-table col:nth-child(2) { width: 35%; } /* Speaker */
+  table.agenda-table col:nth-child(2) { width: 35%; } /* Presenter */
   table.agenda-table col:nth-child(3) { width: 50%; } /* Title */
 
+  /* Keep time ranges on one line */
+  table.agenda-table td.time {
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* Affiliation shown under the presenter name */
+  table.agenda-table .affiliation {
+    display: block;
+    font-size: 0.85em;
+    color: #5a6b7a;
+    margin-top: 2px;
+  }
+
+  /* Optional zebra striping — delete this rule if you prefer plain white rows */
+  table.agenda-table tbody tr:nth-child(even):not(.break-row) {
+    background-color: #f7f9fb;
+  }
+
   /* Styling for Break rows */
-  tr.break-row {
+  table.agenda-table tr.break-row {
     background-color: #dae8f4; /* Light blue */
   }
-  tr.break-row td {
+  table.agenda-table tr.break-row td {
     font-weight: 600;
     color: #1C3F5A;
     text-align: center;      /* Center text horizontally */
@@ -226,7 +247,84 @@ We invite abstract submissions related to (but not limited to) the following top
   }
 </style>
 
-
+<table class="agenda-table">
+  <colgroup>
+    <col>
+    <col>
+    <col>
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Presenter</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="time">8:30 - 8:35</td>
+      <td>Organizers</td>
+      <td>Welcome</td>
+    </tr>
+    <tr>
+      <td class="time">8:35 - 9:15</td>
+      <td>
+        Onur Mutlu / Nika Mansouri Ghiasi
+        <span class="affiliation">ETH Zurich</span>
+      </td>
+      <td>Accelerating Genome Analysis</td>
+    </tr>
+    <tr>
+      <td class="time">9:15 - 10:00</td>
+      <td>
+        Mingkai Dong
+        <span class="affiliation">SJTU</span>
+      </td>
+      <td>DNA Storage as a Systems Problem: From Molecular Media to Storage Abstractions</td>
+    </tr>
+    <tr class="break-row">
+      <td class="time">10:00 - 10:30</td>
+      <td colspan="2">Coffee Break</td>
+    </tr>
+    <tr>
+      <td class="time">10:30 - 10:50</td>
+      <td>
+        Ziqiang &ldquo;Joe&rdquo; Zhu
+        <span class="affiliation">University of California, Davis</span>
+      </td>
+      <td>TypeZero: Building Trustworthy Computer Systems for Human Augmentation</td>
+    </tr>
+    <tr>
+      <td class="time">10:50 - 11:10</td>
+      <td>
+        Timur Eke
+        <span class="affiliation">ETH Zurich</span>
+      </td>
+      <td>Benchmarking and Accelerating Single-Cell Analysis</td>
+    </tr>
+    <tr>
+      <td class="time">11:10 - 11:30</td>
+      <td>
+        Nika Mansouri Ghiasi
+        <span class="affiliation">ETH Zurich</span>
+      </td>
+      <td>Storage-Centric Genomic and Metagenomic Analyses</td>
+    </tr>
+    <tr>
+      <td class="time">11:30 - 11:50</td>
+      <td>
+        Yifan Li
+        <span class="affiliation">Cornell</span>
+      </td>
+      <td>Sparse Linear Algebra Accelerates Genotype Representation Graph Computation at Biobank Scale</td>
+    </tr>
+    <tr>
+      <td class="time">11:50 - 12:00</td>
+      <td>Organizers</td>
+      <td>Concluding Remarks</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Previous Iteration {#previous-iteration}
 
