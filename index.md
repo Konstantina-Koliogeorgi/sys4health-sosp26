@@ -288,7 +288,7 @@ We invite abstract submissions related to (but not limited to) the following top
     <tr>
       <td class="time">10:30 - 10:50</td>
       <td>
-        Ziqiang &ldquo;Joe&rdquo; Zhu
+        Ziqiang &ldquo;Joe&rdquo; Zhu, Thomas Screven
         <span class="affiliation">(University of California, Davis)</span>
       </td>
       <td>TypeZero: Building Trustworthy Computer Systems for Human Augmentation</td>
@@ -324,6 +324,10 @@ We invite abstract submissions related to (but not limited to) the following top
     </tr>
   </tbody>
 </table>
+
+##Livestream {#livestream}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rzzepjCeo5s?si=353Yi5vUj7PUTTcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Previous Iteration {#previous-iteration}
 
